@@ -78,7 +78,7 @@ Es el sitio web oficial de [Extrudal C.A.](https://extrudal.com) con su catálog
 ## 🖼️ Imágenes
 
 <div align="center">
-<img width="1366" height="9905" alt="Extrudal_Home" src="https://github.com/user-attachments/assets/e855461c-9bbe-4602-9564-27c5ffeeeb8a" />
+  <img width="1366" height="9905" alt="Extrudal_Home" src="https://github.com/user-attachments/assets/45a2ed23-52a6-4cbf-a97d-bb029bf13bd7" />
 </div>
 
 
